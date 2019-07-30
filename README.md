@@ -23,6 +23,6 @@ Bei "other" wird jedoch nichts ausgeführt (Dient für Platzhalter).
 Permissions:
   - application.command.gamemode
   - application.command.ivnentory
-  - appplication.command.settime
+  - application.command.settime
   - application.command.setweather
 
