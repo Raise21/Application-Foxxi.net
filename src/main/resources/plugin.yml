@@ -1,0 +1,10 @@
+name: Application
+version: 1.0-SNAPSHOT
+main: net.foxxi.application.Application
+author: RaiseException
+
+commands:
+  settime:
+  setweather:
+  gamemode:
+  inventory:
