@@ -15,8 +15,8 @@ Mögliche Itemtypes:
   - gamemode3
   - other
 
-Der Itemtype dient dazu, um jedes beliebige Item das auszuführen -
-was es ausführen soll. Das heißt wenn ein Item den type "gamemode0" -
+Der Itemtype dient dazu, um jedes beliebige Item das auszuführen 
+was es ausführen soll. Das heißt wenn ein Item den type "gamemode0" 
 hat dann wirst du durch klicken des Items in Gamemode 0 versetzt.
 Bei "other" wird jedoch nichts ausgeführt (Dient für Platzhalter).
 
